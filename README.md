@@ -1,5 +1,5 @@
-# PHP_Kasir-Restoran
-Membuat Aplikasi Kasir Restoran Berbasis Web Menggunakan PHP MySQL
+# PHP_Kasir-Elektronik
+Membuat Aplikasi Kasir Berbasis Web Menggunakan PHP MySQL
 
 Akun Admin
 
